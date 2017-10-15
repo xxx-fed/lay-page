@@ -13,7 +13,7 @@
 
 /* 默认皮肤 */
 .laypageskin_default a{border:1px solid #ccc; background-color:#fff;}
-.laypageskin_default span{height:28px; line-height:28px; color:#999; }
+.laypageskin_default span{height:26px; line-height:26px; color:#999; }
 .laypageskin_default .laypage_curr{font-weight:700; color:#666;}
 
 /* 墨绿 */
